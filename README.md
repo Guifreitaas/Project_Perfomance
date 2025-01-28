@@ -4,34 +4,29 @@
 
 ### Objective:
 
-The main objective of this study is to analyze the data contained in the shopping_trends database using SQL language, through SQL Server, to understand the customer profile and identify behavioral patterns related to the purchases made. The analysis aims to explore aspects such as item and category preferences. These insights can guide strategic decisions to improve customer experience and optimize sales and marketing.
+This project was developed as part of my studies in Business Intelligence (BI) and data analysis, aiming
+to demonstrate my skills in creating interactive dashboards and analyzing large volumes of data. The
+Project Performance Dashboard Warehouse Expansion was designed to monitor the progress of a
+warehouse expansion, optimize processes, and analyse key project metrics such as budget, costs, and
+team performance using Power BI. The dashboard was designed to meet the needs of managers and
+stakeholders, providing a clear and detailed real-time view of the project’s execution. The analysis
+includes, but is not limited to: 
+
 ### Steps:
 
--  Data Extraction in Kaggle;
--  Creation of table in SQL Server;
--  SQL Queries to the database;
--  Analysis and Storytelling;
--  Conclusion;
+1. **Data Cleaning**: Performing a data cleaning and preparation process to ensure its consistency
+   and quality before being uploaded to Power BI.
+2. **Uploading Tables to Power BI**: Importing the relevant tables into Power BI, organizing and
+   structuring the data to facilitate analysis.
+3. **Table Relationships**: Establishing relationships between different tables to ensure efficient and
+   cohesive integration between the data.
+4. **Creation of Measures Table**: Developing measures tables using DAX for essential calculations
+   and metrics, optimizing the creation of interactive charts.
+5. **Chart Development**: Building interactive visualizations that facilitate data analysis, including
+   performance charts, value comparisons, and key project metrics.
+6. **Dashboard Design**: Formatting and structuring the dashboard layout, creating a visually
+   appealing and functional interface for presenting the data.
+7. **Analysis and Conclusions**: In-depth analysis of the data presented on the dashboard, extracting
+   valuable insights for decision-making and presenting the final conclusions of the project.
 
 
-### Data:
-
-- Customer ID = Unique identifier for the customer in the database.
-- Age = The customer's age in years.
-- Gender = The customer's gender.
-- Item Purchased = Specific item purchased by the customer.
-- Category = The category to which the purchased item belongs.
-- Purchase_Amount (USD) = The amount spent on the purchase by the customer.
-- Location = The geographical location of the customer.
-- Size = Size of the purchased product.
-- Color = Color of the item purchased by the customer.
-- Season = The season of the year during which the purchase was made.
-- Review_Rating = The customer's rating of the product or the shopping experience.
-- Subscription_Status = The customer's subscription status (active or inactive).
-- Payment_Method = The payment method used in the transaction.
-- Shipping_Type = The shipping type chosen by the customer.
-- Discount_Applied = Indicates whether a discount was applied to the purchase.
-- PromoCode_Used = Indicates whether a promo code was used in the transaction.
-- Previous_Purchases = The number of previous purchases made by the customer.
-- Preferred_Payment_Method = The customer's preferred payment method.
-- Frequency of Purchases = The frequency with which the customer makes purchases.
