@@ -12,21 +12,23 @@ team performance using Power BI. The dashboard was designed to meet the needs of
 stakeholders, providing a clear and detailed real-time view of the project’s execution. The analysis
 includes, but is not limited to: 
 
+![Descrição do Gráfico](https://github.com/Guifreitaas/Project_Perfomance/blob/main/Git.jpg)
+
 ### Steps:
 
-1. **Data Cleaning**: Performing a data cleaning and preparation process to ensure its consistency
+- **Data Cleaning**: Performing a data cleaning and preparation process to ensure its consistency
    and quality before being uploaded to Power BI.
-2. **Uploading Tables to Power BI**: Importing the relevant tables into Power BI, organizing and
+-  **Uploading Tables to Power BI**: Importing the relevant tables into Power BI, organizing and
    structuring the data to facilitate analysis.
-3. **Table Relationships**: Establishing relationships between different tables to ensure efficient and
+-  **Table Relationships**: Establishing relationships between different tables to ensure efficient and
    cohesive integration between the data.
-4. **Creation of Measures Table**: Developing measures tables using DAX for essential calculations
+- **Creation of Measures Table**: Developing measures tables using DAX for essential calculations
    and metrics, optimizing the creation of interactive charts.
-5. **Chart Development**: Building interactive visualizations that facilitate data analysis, including
+-  **Chart Development**: Building interactive visualizations that facilitate data analysis, including
    performance charts, value comparisons, and key project metrics.
-6. **Dashboard Design**: Formatting and structuring the dashboard layout, creating a visually
+-  **Dashboard Design**: Formatting and structuring the dashboard layout, creating a visually
    appealing and functional interface for presenting the data.
-7. **Analysis and Conclusions**: In-depth analysis of the data presented on the dashboard, extracting
+ - **Analysis and Conclusions**: In-depth analysis of the data presented on the dashboard, extracting
    valuable insights for decision-making and presenting the final conclusions of the project.
 
 
