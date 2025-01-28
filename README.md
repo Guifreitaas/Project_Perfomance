@@ -12,7 +12,7 @@ team performance using Power BI. The dashboard was designed to meet the needs of
 stakeholders, providing a clear and detailed real-time view of the project’s execution. The analysis
 includes, but is not limited to: 
 
-![Descrição do Gráfico](https://github.com/Guifreitaas/Project_Perfomance/blob/main/Git.jpg)
+![Descrição do Gráfico](https://github.com/Guifreitaas/Project_Perfomance/blob/main/GitBG.jpg)
 
 ### Steps:
 
